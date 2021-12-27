@@ -1,4 +1,6 @@
-#/usr/bin/env python 
+#/usr/bin/env python
+# Author : Sai Prashanth
+
 import requests
 from bs4 import BeautifulSoup
 #import sys
